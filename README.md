@@ -3,8 +3,7 @@
 **A project that automatically visualizes your GitHub repository traffic (views) and displays it in the README.**
 
 
-
-[![Traffic View](https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true)](https://github.com/naturesh/traffic-viewer)
+[![Traffic View](https://github.com/alphaleadership/traffic-viewer/blob/main/output.png?raw=true)](https://github.com/alphaleadership)
 
 ## Key Features
 
